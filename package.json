@@ -5,7 +5,7 @@
   "description": "lesson on hexlet",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "make test"
   },
   "author": "EweParo4ky",
   "license": "ISC",
